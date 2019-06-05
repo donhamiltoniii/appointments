@@ -1,5 +1,7 @@
 # Appointments
 
+A walk through of test driving a React application.
+
 ## Installation
 
 Run `npm i`
